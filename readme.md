@@ -146,7 +146,6 @@ salesinsight-py/
 - Google Colab / VS Code
 - Bibliotecas: pandas, numpy, matplotlib, seaborn, json, re, os, random e datetime
 - Git e GitHub para versionamento
-- [Trello / GitHub Projects] para o Kanban
 
 ## Vídeo de demonstração
 
